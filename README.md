@@ -32,7 +32,7 @@ Cloud platforms:
  - Public Cloud (RackSpace, and others)
 
 Storage platforms:
- - EMC ScaleIO
+ - Dell EMC ScaleIO
   - XtremIO
   - VMAX
   - Isilon
